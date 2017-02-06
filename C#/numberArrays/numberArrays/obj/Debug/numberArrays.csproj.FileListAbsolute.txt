@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Shanti\C#\numberArrays\numberArrays\bin\Debug\numberArrays.exe.config
+C:\Users\student\Desktop\Shanti\C#\numberArrays\numberArrays\obj\Debug\numberArrays.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Shanti\C#\numberArrays\numberArrays\bin\Debug\numberArrays.exe
+C:\Users\student\Desktop\Shanti\C#\numberArrays\numberArrays\bin\Debug\numberArrays.pdb
+C:\Users\student\Desktop\Shanti\C#\numberArrays\numberArrays\obj\Debug\numberArrays.exe
+C:\Users\student\Desktop\Shanti\C#\numberArrays\numberArrays\obj\Debug\numberArrays.pdb

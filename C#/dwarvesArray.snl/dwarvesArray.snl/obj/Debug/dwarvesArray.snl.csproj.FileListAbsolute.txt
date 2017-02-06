@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Shanti\C#\dwarvesArray.snl\dwarvesArray.snl\bin\Debug\dwarvesArray.snl.exe.config
+C:\Users\student\Desktop\Shanti\C#\dwarvesArray.snl\dwarvesArray.snl\bin\Debug\dwarvesArray.snl.exe
+C:\Users\student\Desktop\Shanti\C#\dwarvesArray.snl\dwarvesArray.snl\bin\Debug\dwarvesArray.snl.pdb
+C:\Users\student\Desktop\Shanti\C#\dwarvesArray.snl\dwarvesArray.snl\obj\Debug\dwarvesArray.snl.exe
+C:\Users\student\Desktop\Shanti\C#\dwarvesArray.snl\dwarvesArray.snl\obj\Debug\dwarvesArray.snl.pdb

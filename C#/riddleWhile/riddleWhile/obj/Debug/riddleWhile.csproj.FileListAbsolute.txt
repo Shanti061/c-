@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Shanti\C#\riddleWhile\riddleWhile\bin\Debug\riddleWhile.exe.config
+C:\Users\student\Desktop\Shanti\C#\riddleWhile\riddleWhile\bin\Debug\riddleWhile.exe
+C:\Users\student\Desktop\Shanti\C#\riddleWhile\riddleWhile\bin\Debug\riddleWhile.pdb
+C:\Users\student\Desktop\Shanti\C#\riddleWhile\riddleWhile\obj\Debug\riddleWhile.exe
+C:\Users\student\Desktop\Shanti\C#\riddleWhile\riddleWhile\obj\Debug\riddleWhile.pdb
+C:\Users\student\Desktop\Shanti\C#\riddleWhile\riddleWhile\obj\Debug\riddleWhile.csprojResolveAssemblyReference.cache

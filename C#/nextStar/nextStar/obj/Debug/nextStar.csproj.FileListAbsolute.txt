@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Shanti\C#\nextStar\nextStar\bin\Debug\nextStar.exe.config
+C:\Users\student\Desktop\Shanti\C#\nextStar\nextStar\bin\Debug\nextStar.exe
+C:\Users\student\Desktop\Shanti\C#\nextStar\nextStar\bin\Debug\nextStar.pdb
+C:\Users\student\Desktop\Shanti\C#\nextStar\nextStar\obj\Debug\nextStar.exe
+C:\Users\student\Desktop\Shanti\C#\nextStar\nextStar\obj\Debug\nextStar.pdb

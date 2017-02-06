@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Shanti\C#\dwarves\dwarves\bin\Debug\dwarves.exe.config
+C:\Users\student\Desktop\Shanti\C#\dwarves\dwarves\bin\Debug\dwarves.exe
+C:\Users\student\Desktop\Shanti\C#\dwarves\dwarves\bin\Debug\dwarves.pdb
+C:\Users\student\Desktop\Shanti\C#\dwarves\dwarves\obj\Debug\dwarves.exe
+C:\Users\student\Desktop\Shanti\C#\dwarves\dwarves\obj\Debug\dwarves.pdb
